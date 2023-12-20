@@ -8,6 +8,7 @@
 		<input type="text"/><br><br>
 		<button type="submit">submit</button>
 		<button type="reset">reset</button>
+		<lable>continous</lable>
 	</form>
 </body>
 </html>
